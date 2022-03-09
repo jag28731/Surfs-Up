@@ -14,7 +14,7 @@ Below are the results of the tempature trends for the months of June and Decembe
 - The higher tempature occurs in June.
 
 ![June](https://github.com/jag28731/Surfs-Up/blob/main/Resources/June%20Temps.png)
-- The lowest tempture occurs in December. 
+- The lower tempture occurs in December. 
 
 ![December](https://github.com/jag28731/Surfs-Up/blob/main/Resources/December%20Temps.png)
     
