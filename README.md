@@ -10,15 +10,18 @@ W. Avy is opening a surf shop. He is looking for tempature trends prior to openi
 Below are the results of the tempature trends for the months of June and December in Oahu.
 
 ### Results
-- XXX
-- XXX
-- XXX
+- The average tempature in June is higher than it is in December.
+- The higher tempature occurs in June.
 
-![Retiring](https://github.com/jag28731/Pewlett-Hackard/blob/main/Data/Retiring.png)
+![June](https://github.com/jag28731/Surfs-Up/blob/main/Resources/June%20Temps.png)
+- The lowest tempture occurs in December. 
+
+![December](https://github.com/jag28731/Surfs-Up/blob/main/Resources/December%20Temps.png)
     
 ## Surfs Up Analysis Summary
 
-Summary XXX
+Overall the temperatures are very similiar between June and December. There is only an average change in tempature of ~3 degrees between June and December. Oahu is warm year-round so opening an surf and ice cream shop in Oahu would be sustainable. 
 
-- XXX
-- XXX
+Two addtional queries to consider before opening a surf and ice cream shop are:
+- What is the precipitation between June and December? Would the change in weather affect the waves for surfing, the amount of tourists due to precipitation, and desire for ice cream?
+- What is the likelihood of a storm between June and December? Would hurricane season lower the amount of tourists for the shop?
